@@ -9,7 +9,7 @@ async def is_user_fsub(bot , message):
     chat_id = message.chat.id
     fSub = await db.getFsub(chat_id)
     if fSub is None:
-        return False
+        return True
     #now checking if user in fsub chat id or not
     else:
         invite_link = await bot.export_chat_invite_link(chat_id=fSub)
