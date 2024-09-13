@@ -174,15 +174,15 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
 2:- ᴍᴀᴋᴇ ᴛʜɪs <a href=https://t.me/{}</a> ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 
-3:- ᴄʀᴇᴀᴛᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ᴀɴʏ sʜᴏʀᴛɴᴇʀ ʟɪᴋᴇ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴛʜɪs ʙᴇsᴛ sʜᴏʀᴛɴᴇʀ <a href=https://vnshortener.com/ref/King108>vnshortener</a>.
+3:- ᴄʀᴇᴀᴛᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ᴀɴʏ sʜᴏʀᴛɴᴇʀ ʟɪᴋᴇ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴛʜɪs ʙᴇsᴛ sʜᴏʀᴛɴᴇʀ <a href=https://ziplinker.net/ref/King108>ziplinker</a>.
 
 4:- ᴛʜᴇɴ sᴇᴛ ʏᴏᴜʀ sʜᴏʀᴛɴᴇʀ ᴅᴇᴛᴀɪʟs ʙʏ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇
 
-<code>/set_shortner instantlinks.com fc8a95778f095f7c8e044f616ea8530bcc52766a</code>
+<code>/set_shortner ziplinker.net d30ca2ef6fa6aa48c1cd48ebd3a934ed4aa6f700</code>
 
-<code>/set_shortner_2 vnshortener.com 5c893e2544bc73f7eccb80a4568810ef71dea281</code>
+<code>/set_shortner_2 urlshortx.com 7cc40ab4b5f7dbed644330cb2ac672e7dcd8f03d</code>
 
-<code>/set_shortner_3 crlinks.in 05ec7f4069721076e31565e8dbd109dab4497bb6</code>
+<code>/set_shortner_3 instantlinks.co fc8a95778f095f7c8e044f616ea8530bcc52766a</code>
 
 <code>/set_tutorial https://t.me/cine_world9</code>
 
