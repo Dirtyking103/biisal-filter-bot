@@ -42,8 +42,8 @@ SHORTENER_API = environ.get("SHORTENER_API", "d30ca2ef6fa6aa48c1cd48ebd3a934ed4a
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'ziplinker.net')
 SHORTENER_API2 = environ.get("SHORTENER_API2", "7cc40ab4b5f7dbed644330cb2ac672e7dcd8f03d")
 SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'urlshortx.com')
-SHORTENER_API3 = environ.get("SHORTENER_API3", "fc8a95778f095f7c8e044f616ea8530bcc52766a")
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'instantlinks.co')
+SHORTENER_API3 = environ.get("SHORTENER_API3", "0")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", '0')
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "14400"))
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "14400"))
 
